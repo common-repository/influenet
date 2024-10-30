@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP SEO Title v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-30 16:45+0100\n"
+"PO-Revision-Date: 2015-03-30 16:45+0100\n"
+"Last-Translator: Nicolás Marín Torres <nicolas@archivados.com>\n"
+"Language-Team:  <nicolas@archivados.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-seo-title.php:63
+msgid "Get Suggestions"
+msgstr "Mostrar Sugerencias"
+
+#: ../wp-seo-title.php:64
+msgid "Suggestions for titles"
+msgstr "Sugerencias para títulos"
+
+#: ../wp-seo-title.php:65
+msgid "Put Keyword"
+msgstr "Introduce Palabra clave"
+
+#: ../wp-seo-title.php:66
+msgid "Suggestions for"
+msgstr "Sugerencias para"
+
+#: ../wp-seo-title.php:67
+msgid "Please enter a keyword in title or keyword input and try again."
+msgstr ""
+"Por favor, introduzca una palabra clave en el título o palabra clave de "
+"entrada y vuelva a intentarlo."
+
+#: ../wp-seo-title.php:81 ../inc/wpst-admin.php:29
+msgid "WP SEO Title Options"
+msgstr "Opciones de WP SEO Title"
+
+#: ../inc/wpst-admin.php:31
+msgid "Country"
+msgstr "País"
+
+#: ../inc/wpst-admin.php:32
+msgid "Select the Country that is used for Google requests."
+msgstr "Selecciona el país del que provienen principalmente tus usuarios."
+
+#: ../inc/wpst-admin.php:65
+msgid "Update List Countries"
+msgstr "Actualiza la lista de paises"
+
+#: ../inc/wpst-admin.php:73
+msgid "API KEY"
+msgstr "API KEY"
+
+#: ../inc/wpst-admin.php:76
+#, fuzzy
+msgid "Get API KEY"
+msgstr "Obtener API KEY."
+
+#: ../inc/wpst-admin.php:81
+msgid "Value"
+msgstr "Valor"
+
+#: ../inc/wpst-admin.php:86 ../inc/keywords-list.php:26
+msgid "Volume"
+msgstr "Volumen"
+
+#: ../inc/wpst-admin.php:86 ../inc/keywords-list.php:31
+msgid "CPC"
+msgstr "CPC"
+
+#: ../inc/wpst-admin.php:86 ../inc/keywords-list.php:36
+msgid "Profit"
+msgstr "Rentabilidad"
+
+#: ../inc/wpst-admin.php:94
+msgid "Option to order"
+msgstr "Opción para ordenar"
+
+#: ../inc/wpst-admin.php:98
+msgid "Order"
+msgstr "Orden"
+
+#: ../inc/wpst-admin.php:111
+msgid "DESC: for a descending sort. ASC: for a ascending sort"
+msgstr "DESC: orden descendiente. ASC: orden ascendente."
+
+#: ../inc/wpst-admin.php:116
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: ../inc/keywords-list.php:18
+msgid "Keyword"
+msgstr "Palabra clave"
+
+#: ../inc/keywords-list.php:18
+msgid "Keyword: key phrase."
+msgstr "Keyword: Palabra Clave."
+
+#: ../inc/keywords-list.php:21
+msgid "Credits"
+msgstr "Creditos"
+
+#: ../inc/keywords-list.php:26
+msgid "Volume: search popularity for the keyword each months."
+msgstr "Volumen: popularidad de esta keyword de búsqueda promedio en cada mes."
+
+#: ../inc/keywords-list.php:31
+msgid "CPC: cost per click."
+msgstr "CPC: coste por click."
+
+#: ../inc/keywords-list.php:36
+msgid "Profit: good keyword"
+msgstr "Rentabilidad: buena palabra clave."
+
+#: ../inc/keywords-list.php:54
+msgid "Set as title"
+msgstr "Poner como título"
+
+#: ../inc/keywords-list.php:55
+msgid "More suggestions"
+msgstr "Más sugerencias"
+
+#: ../inc/keywords-list.php:56
+msgid "Check existing"
+msgstr "Comprobar existentes"
+
+#~ msgid "Keyword para las sugerencias o deja en blanco para usar el título"
+#~ msgstr "Keyword para las sugerencias o deja en blanco para usar el título"
+
+#~ msgid "Sugerencias para titulos"
+#~ msgstr "Sugerencias para titulos"

@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP SEO Title v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-17 20:10+0100\n"
+"PO-Revision-Date: 2013-06-17 20:23+0100\n"
+"Last-Translator: Nicolás Marín Torres <nicolas@archivados.com>\n"
+"Language-Team:  <nicolas@archivados.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../js/wp-seo-title-js.php:20
+#: ../js/wp-seo-title-js.php:33
+#: ../js/wp-seo-title-js.php:57
+#: ../js/wp-seo-title-js.php:79
+msgid "Get Suggestions"
+msgstr "Mostrar Sugerencias"
+
+#: ../js/wp-seo-title-js.php:27
+msgid "Sugerencias para titulos"
+msgstr "Sugerencias para titulos"
+
+#: ../js/wp-seo-title-js.php:31
+msgid "Keyword para las sugerencias o deja en blanco para usar el título"
+msgstr "Keyword para las sugerencias o deja en blanco para usar el título"
+
+#: ../js/wp-seo-title-js.php:45
+msgid "Suggestions for"
+msgstr "Sugerencias para"
+
+#: ../js/wp-seo-title-js.php:71
+#: ../js/wp-seo-title-js.php:93
+msgid "Please enter a keyword in title or keyword input and try again."
+msgstr ""
+
+#: ../inc/wpst-admin.php:29
+#, fuzzy
+msgid "WP SEO Title Options"
+msgstr "Opciones de WP SEO Title"
+
+#: ../inc/wpst-admin.php:31
+msgid "Country"
+msgstr ""
+
+#: ../inc/wpst-admin.php:32
+msgid "Select the Country that is used for Google requests."
+msgstr ""
+
+#: ../inc/wpst-admin.php:65
+msgid "Update List Countries"
+msgstr ""
+
+#: ../inc/wpst-admin.php:73
+msgid "API KEY"
+msgstr ""
+
+#: ../inc/wpst-admin.php:76
+msgid "Get API KEY."
+msgstr "Obtener API KEY."
+
+#: ../inc/wpst-admin.php:81
+msgid "Value"
+msgstr ""
+
+#: ../inc/wpst-admin.php:94
+msgid "The more suggestions you want to be shown the longer the load time is."
+msgstr ""
+
+#: ../inc/wpst-admin.php:98
+msgid "Order"
+msgstr ""
+
+#: ../inc/wpst-admin.php:111
+msgid "DESC: Más a menos. ASC: Menos a más"
+msgstr ""
+
+#: ../inc/wpst-admin.php:116
+msgid "Save Changes"
+msgstr ""
+
+#: ../inc/keywords-list.php:12
+msgid "Keyword"
+msgstr ""
+
+#: ../inc/keywords-list.php:12
+msgid "Inbound Links: The minimum number of back links that you need pointing directly to this blog post to maximize your search engine rankings for this keyword or key phrase. (backlink data gathered from Bing.com)"
+msgstr ""
+
+#: ../inc/keywords-list.php:13
+msgid "Volume"
+msgstr ""
+
+#: ../inc/keywords-list.php:13
+msgid "Google Insights: Measures the overall search popularity for the given keyword or key phrase for the current month. (the maximum search volume is 100%)"
+msgstr ""
+
+#: ../inc/keywords-list.php:14
+msgid "CPC"
+msgstr ""
+
+#: ../inc/keywords-list.php:14
+msgid "Google Competition: The amount of competing pages that are ranking for this keyword or key phrase."
+msgstr ""
+
+#: ../inc/keywords-list.php:15
+msgid "Profit"
+msgstr ""
+
+#: ../inc/keywords-list.php:15
+msgid "Google Trends: The overall search trend related to the given keyword or key phrase over a period of 12 months"
+msgstr ""
+
+#: ../inc/keywords-list.php:32
+msgid "Set as title"
+msgstr ""
+
+#: ../inc/keywords-list.php:33
+msgid "More suggestions"
+msgstr ""
+
+#: ../inc/keywords-list.php:34
+msgid "Check existing"
+msgstr ""
+

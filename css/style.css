@@ -1,0 +1,54 @@
+#titlediv #wpst_country_selected_ul { margin-top: 1px; float: right; }
+#titlediv .dd-select { height: 26px;padding-top: 4px; }
+#titlediv .dd-selected-text { line-height: 22px; }
+#titlediv div.inside { margin: 1px; }
+#titlediv div.inside .button {vertical-align: middle !important; }
+
+#wpst-toggle-button { line-height:28px; height: 32px; width:138px; margin-top: 1px; background:url("../images/button-grad.png") repeat-x scroll left top #87c630; border-color: #87c630; color: #FFFFFF; text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3); float:right; font-family: sans-serif; font-size: 12px !important; text-align:center }
+#wpst-toggle-button:hover, #suggestions-button:active { border-color: #649722; color: #e9f7d8; }
+#wpst-toggle-button:active { background: url("../images/button-grad-active.png") repeat-x scroll left top #649722; }
+#wpst-toggle-button.disabled { cursor:default; background: url("../images/button-grad-grey.png") repeat-x scroll left top #DFDFDF; text-shadow:none }
+
+#wpst-suggestions-widget { cursor: inherit !important; }
+
+#wpst-options .postbox h3, #wpst-suggestions-widget .widget-top { cursor:default }
+
+#wpst-suggestions-widget #wpst-tools { padding:0.5em; background-color: rgb(255, 255, 255); border: 1px solid rgb(237, 237, 237); }
+#wpst-suggestions-widget #wpst-tools span .wpst-prompt-text { color: #BBBBBB; font-size:1.1em; padding:8px; position:absolute; vertical-align:middle }
+#wpst-suggestions-widget #wpst-tools span .wpst-input { width:50em; font-size:1.1em; }
+#wpst-suggestions-widget #wpst-tools span .wpst-button { font-weight:normal; margin: 1px 1em; height: 29px; }
+
+#wpst-suggestions-widget .inside #ajax-loader { background:url("../images/ajax-loader.gif") no-repeat scroll left top #FFF; width:220px; height:19px; margin-left:auto; margin-right:auto; margin-top:11px; margin-bottom:10px }
+
+#wpst-suggestions-widget .inside #wpst-table { border:none; width:100%; }
+#wpst-suggestions-widget .inside #wpst-table .keyword { width: 50%; }
+#wpst-suggestions-widget .inside #wpst-table .credits { width: 10%; border-right: 1px solid #DADADA; }
+#wpst-suggestions-widget .inside #wpst-table .volume { width: 14%; text-align: center; }
+#wpst-suggestions-widget .inside #wpst-table .cpc { width: 13%; text-align: center; }
+#wpst-suggestions-widget .inside #wpst-table .profit { width: 13%; text-align: right; }
+#wpst-suggestions-widget .inside #wpst-table td { padding:0.5em; line-height:1.5em; font-size:1.1em; vertical-align:middle }
+#wpst-suggestions-widget .inside #wpst-table td.wpst-more-cell { width:21em }
+#wpst-suggestions-widget .inside #wpst-table td.wpst-more-cell .button { display:none }
+#wpst-suggestions-widget .inside #wpst-table td.wpst-keyword-cell { cursor:pointer; width:auto }
+#wpst-suggestions-widget td .volume, #wpst-suggestions-widget td .cpc, #wpst-suggestions-widget td .profit { text-align: right !important; }
+#wpst-options-icon { background-image:url("../images/icon36.png") }
+#keyword-table-container { max-height: 250px; overflow: auto; }
+
+#wpst-table thead th .button { visibility: hidden; }
+#wpst-table thead th:hover .button { visibility: visible; }
+
+#keyword-suggestions-results .wpst-row-actions { visibility: hidden; padding: 2px 0 0; }
+#keyword-suggestions-results tr:hover .wpst-row-actions { visibility: visible; }
+
+.wpst-sorting-arrows { display: block;position: absolute;width: 11px;height: 8px;background-repeat: no-repeat;background-image: url("../images/sortable.gif"); }
+
+.wpst-sorting-arrows-desc { background-position: 0px -8px; margin-top: 14px; }
+.wpst-sorting-arrows-asc { background-position: 0px 0px; }
+.wpst-sorted-desc .wpst-sorting-arrows-desc { background-image: url("../images/sorted_desc.gif"); }
+.wpst-sorted-asc .wpst-sorting-arrows-asc { background-image: url("../images/sorted_asc.gif"); }
+
+.dd-option-image, .dd-selected-image { margin-top: 6px; }
+.dd-selected { padding: 0px 10px 0px 10px !important; height: 22px; }
+.dd-selected-text { line-height: 25px; }
+.dd-options { width: 150px !important; }
+.dd-options li { margin-bottom: 0px;
